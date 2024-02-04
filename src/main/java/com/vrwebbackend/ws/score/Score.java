@@ -15,6 +15,7 @@ import java.util.Date;
 @Data
 public class Score
 {
+    //enes
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Long id;
