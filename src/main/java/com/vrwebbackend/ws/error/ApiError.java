@@ -3,7 +3,6 @@ package com.vrwebbackend.ws.error;
 import com.fasterxml.jackson.annotation.JsonInclude;
 
 import java.util.Date;
-import java.util.HashMap;
 import java.util.Map;
 
 @JsonInclude(value = JsonInclude.Include.NON_NULL)
