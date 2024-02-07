@@ -12,7 +12,7 @@ public class VrWebBackendApplication
 {
     public static void main(String[] args) {
         SpringApplication.run(VrWebBackendApplication.class, args);
-    }//
+    }
 
     @Bean
     public WebMvcConfigurer corsConfigurer()
