@@ -14,6 +14,7 @@ public class QuestionService
                 "{" +
                 "\"index\": 1," +
                 "\"text\": \"Güneş'in dönüş yönü nedir?\"," +
+                "\"achievement\": \"Güneş'in geometrik şekli belirtilmiştir. Güneş'in Dünya gibi katmanlardan oluştuğu ancak katmanların yapısının bahsedilmediği söylenmiştir. Güneş'in döndüğü ifade edilmiştir\"," +
                 "\"options\": [" +
                 "{ \"option_id\": \"Saat yönünün tersine\", \"text\": \"Saat yönünün tersine\", \"isCorrect\": true }," +
                 "{ \"option_id\": \" Saat yönünde\", \"text\": \" Saat yönünde\", \"isCorrect\": false }," +
@@ -24,6 +25,7 @@ public class QuestionService
                 "{" +
                 "\"index\": 2," +
                 "\"text\": \"Dünya'nın kendi ekseni etrafındaki dönüş hareketi nasıl gerçekleşir?\"," +
+                "\"achievement\": \"Ay'ın büyüklüğü belirtilmiştir. Ay'ın geometrik şekli bahsedilmiştir. Ay'ın yüzey yapısı hakkında bilgi verilmiştir\"," +
                 "\"options\": [" +
                 "{ \"option_id\": \"Saat yönünün tersine\", \"text\": \"Saat yönünün tersine\", \"isCorrect\": true }," +
                 "{ \"option_id\": \"Saat yönünde\", \"text\": \"Saat yönünde\", \"isCorrect\": false }," +
@@ -34,6 +36,7 @@ public class QuestionService
                 "{" +
                 "\"index\": 3," +
                 "\"text\": \"Dünya'nın Güneş etrafında dolanma süresi kaç gündür?\"," +
+                "\"achievement\": \"Ay'ın dönüş ve dönme hareketleri açıklanmıştır. Ay'ın döndüğü belirtilmiştir. Ay'ın evreleri ile Ay'ın Dünya etrafındaki yörüngesi arasındaki ilişki açıklanmıştır.\"," +
                 "\"options\": [" +
                 "{ \"option_id\": \" 24 saat\", \"text\": \" 24 saat\", \"isCorrect\": false }," +
                 "{ \"option_id\": \" 365 gün 6 saat\", \"text\": \" 365 gün 6 saat\", \"isCorrect\": true }," +
@@ -44,6 +47,7 @@ public class QuestionService
                 "{" +
                 "\"index\": 4," +
                 "\"text\": \" Ay'ın kendi ekseni etrafındaki dönüş hareketi hangi yönde gerçekleşir?\"," +
+                "\"achievement\": \"Güneş, Dünya ve Ay'ın birbirlerine göre hareketlerini temsil eden bir model hazırlamıştır. Ay'ın Dünya etrafında döndüğü yön belirtilmiştir. Dünya'nın Güneş etrafında döndüğü yön belirtilmiştir\"," +
                 "\"options\": [" +
                 "{ \"option_id\": \"Saat yönünün tersine\", \"text\": \"Saat yönünün tersine\", \"isCorrect\": true }," +
                 "{ \"option_id\": \"Saat yönünde\", \"text\": \"Saat yönünde\", \"isCorrect\": false }," +
@@ -54,6 +58,7 @@ public class QuestionService
                 "{" +
                 "\"index\": 5," +
                 "\"text\": \"Ay, Dünya etrafında dolanma hareketini hangi yönde yapar?\"," +
+                "\"achievement\": \"Ay'ın dönüş ve dönme hareketleri açıklanmıştır. Ay'ın döndüğü belirtilmiştir.\"," +
                 "\"options\": [" +
                 "{ \"option_id\":\"Saat yönünün tersine\", \"text\": \"Saat yönünün tersine\", \"isCorrect\": true }," +
                 "{ \"option_id\": \"Saat yönünde\", \"text\": \"Saat yönünde\", \"isCorrect\": false }," +
